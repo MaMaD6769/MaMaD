@@ -1,0 +1,12 @@
+{
+    "name": "wolf/time",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Wolf\\Time\\": "MaMaD/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
